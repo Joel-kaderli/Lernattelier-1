@@ -10,10 +10,9 @@
 
 ## Arbeitspakete für 25.08.2023
 
-* anschauen wie ich in den modulen da stehn und da ein arbeitspaket arbeiten.
-* dann mich nach einem projekt umschauen wie eine webseite zu programmiern mit html 
-* mich mit hatml auseinader setzen und erlernen
-* anfangen zuprogrammieren
+* Modul 319 Hausaufgaben Uhr machen
+* Modul 319 an den Aufträgen weiter arbeiten zusammen fassungen schreiben
+* Modul 431 weiter arbeiten un zusammenfassungen schreiben 
 
 ✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 
