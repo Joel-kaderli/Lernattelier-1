@@ -17,10 +17,10 @@
 ✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 ## Arbeitspakte für 1.09.2023
 
-*C# lernen mit leanmicrosoft
-*Modul 319 weiterarbeiten und mindstns 1 auftrag erledigen
-*Modul 419 2 aufträge erledigen 
-*nochmals C# lernen auf learn microsoft
+*[]C# lernen mit leanmicrosoft
+*[]Modul 319 weiterarbeiten und mindstns 1 auftrag erledigen
+*[]Modul 419 2 aufträge erledigen 
+*[]nochmals C# lernen auf learn microsoft
   
 
 - [ ] Ein Programm, welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt.
