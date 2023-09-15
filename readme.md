@@ -29,12 +29,17 @@ Ich habe gemerkt das ich C# noch nicht so gute beherrsche. Daher habe ich mich a
 - [ ] Programmiren an einem Kleinen Projekt numberguesser
 - [ ] nochmals C# lernen und notizen machen und weiter übungen machen
 - [ ] An den Modulen arbeiten um aufzuholen
-...
+      
+Ich habe ein Wenig an der C# zusammenfassung von mir gearbietet und bin sehr gut Forwärts gekommen. Bei Programmieren bin ich nicht guet weiter gekommne da ich mehr zeit bei den Module gebraucht habe als ich dachte da ich Expetrten ziele gemacht habe. Dann habe ich nochmals einge übungen zu C# gemacht um diese zu verbessern und vom Modul 319 kontrollstrukturen repetirt. (62 Wörter)
 
 ## Arbeitspaket für den 22.09.2023
-- 
+- [ ] Für das Modul 319 Dokumentation schreiben(Handlungsziele zusammenfassen)
+- [ ] Programmieren für Handlungsziel 4 Modul 319
+- [ ] 
+- [ ]
 
 | Nummer | Given | When |  |
 |---|---|---|---|
+|1|Zahle eingeben| Zahle gedrückt werden und Enter| |
 
 ✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
