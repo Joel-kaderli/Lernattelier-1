@@ -22,18 +22,19 @@
 - [ ] Modul 419 2 aufträge erledigen
 - [x] nochmals C# lernen auf learn microsoft
       
-Ich habe gemerkt das ich C# noch nicht so gute beherrsche. Daher habe ich mich auf die Suche gemacht nach einer geeigneten lern Webseite. ALS ich eine gute Webseite gefunden habe, habe ich mir die Wichtigsten Sachen heraus geschrieben und fest gehalten. Dazu habe ich Übungen gemacht und immer wieder einzeln cods geschrieben.
+Ich habe gemerkt das ich C# noch nicht so gute beherrsche. Daher habe ich mich auf die Suche gemacht nach einer geeigneten lern Webseite. ALS ich eine gute Webseite gefunden habe, habe ich mir die Wichtigsten Sachen heraus geschrieben und fest gehalten. Dazu habe ich Übungen gemacht und immer wieder einzeln cods geschrieben. (53 Wörter)
   
 ## Arbeitspaket für den 14.09.2023
--[ ] C# lernen und notizen machen und weiter übungen machen
--[ ] Programmiren an einem Kleinen Projekt numberguesser
--[ ] nochmals C# lernen und notizen machen und weiter übungen machen
--[ ] An den Modulen arbeiten um aufzuholen
+- [ ] C# lernen und notizen machen und weiter übungen machen
+- [ ] Programmiren an einem Kleinen Projekt numberguesser
+- [ ] nochmals C# lernen und notizen machen und weiter übungen machen
+- [ ] An den Modulen arbeiten um aufzuholen
+...
 
+## Arbeitspaket für den 22.09.2023
+- 
 
-| Vorbereitung             | Eingabe | Erwartete Ausgabe |
-| ------------------------ | ------- | ----------------- |
-| Programm in VS gestartet | `Nico`  | `Hallo Nico`      |
-
+| Nummer | Given | When |  |
+|---|---|---|---|
 
 ✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
