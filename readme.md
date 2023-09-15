@@ -25,10 +25,10 @@
 Ich habe gemerkt das ich C# noch nicht so gute beherrsche. Daher habe ich mich auf die Suche gemacht nach einer geeigneten lern Webseite. ALS ich eine gute Webseite gefunden habe, habe ich mir die Wichtigsten Sachen heraus geschrieben und fest gehalten. Dazu habe ich Übungen gemacht und immer wieder einzeln cods geschrieben.
   
 ## Arbeitspaket für den 14.09.2023
--[] C# lernen und notizen machen und weiter übungen machen
--[] Programmiren an einem Kleinen Projekt numberguesser
--[] nochmals C# lernen und notizen machen und weiter übungen machen
--[] An den Modulen arbeiten um aufzuholen
+-[ ] C# lernen und notizen machen und weiter übungen machen
+-[ ] Programmiren an einem Kleinen Projekt numberguesser
+-[ ] nochmals C# lernen und notizen machen und weiter übungen machen
+-[ ] An den Modulen arbeiten um aufzuholen
 
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
