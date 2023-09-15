@@ -35,8 +35,8 @@ Ich habe ein Wenig an der C# zusammenfassung von mir gearbietet und bin sehr gut
 ## Arbeitspaket für den 22.09.2023
 - [ ] Für das Modul 319 Dokumentation schreiben(Handlungsziele zusammenfassen)
 - [ ] Programmieren für Handlungsziel 4 Modul 319
-- [ ] 
-- [ ]
+- [ ] C# zusammenfasung weiter machen
+- [ ] Modul 419 weiter arbeiten
 
 | Nummer | Given | When |  |
 |---|---|---|---|
