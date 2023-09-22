@@ -42,4 +42,8 @@ Ich habe ein Wenig an der C# zusammenfassung von mir gearbietet und bin sehr gut
 |---|---|---|---|
 |1|Zahle eingeben| Zahle gedrückt werden und Enter| |
 
-✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
+## Reflektion
+Ich habe in den Letzten Lernperioden sehr viel an den Modulen gearbeitet und nicht besonders viel an dem Numberguesser Projekt und da ich anfangs nicht wusste wie man programmiert und wie ich C# anwende habe ich eine Zusammenfassung geschrieben über C# die ist wie ich finde sehr gut heraus gekommen. Immer wenn ich am Numberguesser nicht weiter kam, habe ich an der Zusammenfassung gearbeitet. An den Modulen habe ich nur gearbeitet wenn ich in der Letzten Modul stunde nicht weit genug gekommen bin. Den Numberguesser habe ich noch nicht fertig gemacht da ich das programmieren noch nicht gut verstehe. Aber ich bin kurz vor Schluss und dann brauche ich es um für eine Modul abzugeben. (120 Wörter)
+
+In der nächsten Lernperiode sollte ich meine Projekt das nächste Projekt mehr durchzuziehen, da ich bei diesem immer wieder ablenken habe lassen durch Module und Zusammenfassung.
+
